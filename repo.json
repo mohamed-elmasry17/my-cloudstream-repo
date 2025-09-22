@@ -1,8 +1,8 @@
 {
-    "name": "Arabico",
+    "name": "Arabicomasry",
     "description": "Updating the Cloudstream Arabic Provider. Feel free to join the Cloudstream Discord server for the latest information.",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/mohamed-elmasry17/arabmasry/raw/main/plugins.json"
+      "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/plugins.json"
     ]
   }
