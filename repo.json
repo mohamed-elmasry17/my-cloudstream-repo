@@ -4,7 +4,9 @@
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/mohamed-elmasry17/my-cloudstream-repo/main/ArabseedProvider.cs3"
+    "https://raw.githubusercontent.com/mohamed-elmasry17/my-cloudstream-repo/main/CimaNowProvider.cs3"
   ]
 }
+
 
 
