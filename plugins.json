@@ -2,7 +2,7 @@
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mohamed-elmasry17/arabmasry",
+    "repositoryUrl": "https://github.com/mohamed-elmasry17/my-cloudstream-repo",
     "fileSize": 16392,
     "status": 1,
     "language": "ar",
@@ -15,13 +15,13 @@
     ],
     "version": 16,
     "internalName": "ArabSeedProvider",
-    "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/build/ArabSeedProvider.cs3",
+    "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/ArabseedProvider.cs3",
     "name": "ArabSeedProvider"
 },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/mohamed-elmasry17/arabmasry",
+        "repositoryUrl": "https://github.com/mohamed-elmasry17/my-cloudstream-repo",
         "fileSize": 13531,
         "status": 2,
         "language": "ar",
@@ -35,26 +35,7 @@
         "version": 9,
         "internalName": "CimaNowProvider",
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-        "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/build/CimaNowProvider.cs3",
+        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
-    },
-    {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=AKWaam.ink&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mohamed-elmasry17/arabmasry",
-    "fileSize": 16392,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie"
-    ],
-    "version": 21,
-    "internalName": "AkwamProvider",
-    "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/build/AkwamProvider.cs3",
-    "name": "AkwamProvider"
-}
+    }
 ]
