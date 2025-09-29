@@ -1,6 +1,6 @@
 [
 {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=CimaNowProvider.ink&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mohamed-elmasry17/my-cloudstream-repo",
     "fileSize": 16392,
@@ -14,8 +14,8 @@
         "Movie"
     ],
     "version": 16,
-    "internalName": "ArabSeedProvider",
-    "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/ArabseedProvider.cs3",
+    "internalName": "CimaNowProvider",
+    "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/CimaNowProvider.cs3",
     "name": "ArabSeedProvider"
 },
     {
