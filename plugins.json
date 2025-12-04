@@ -37,5 +37,25 @@
         "description": "هذا الموقع من افضل المواقع فى عرض المحتوى ومحدث بشكل مستمر \n نتمنى لكم مشاهدة ممتعه وجميع الحقوق محفوظة للموقع",
         "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/ArabSeed.cs3",
         "name": "ArabSeed"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=CimaNowProvider.ink&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mohamed-elmasry17/my-cloudstream-repo",
+        "fileSize": 10000,
+        "status": 2,
+        "language": "ar",
+        "authors": [
+            "MoElMaSrY"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "ExampleProvider1",
+        "description": "تحت التطوير",
+        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/ExampleProvider.cs3",
+        "name": "ExampleProvider2"
     }
 ]
