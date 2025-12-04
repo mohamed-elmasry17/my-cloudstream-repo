@@ -32,10 +32,10 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
-        "internalName": "ExampleProvider",
-        "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/ExampleProvider.cs3",
+        "version": 1,
+        "internalName": "عرب سيد - ArabSeed",
+        "description": "هذا الموقع من افضل المواقع فى عرض المحتوى ومحدث بشكل مستمر \n نتمنى لكم مشاهدة ممتعه وجميع الحقوق محفوظة للموقع",
+        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/ArabSeed.cs3",
         "name": "ExampleProvider"
     }
 ]
