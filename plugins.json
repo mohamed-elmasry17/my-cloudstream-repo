@@ -42,7 +42,7 @@
         "iconUrl": "https://img.utdstc.com/icon/adc/632/adc632474f53fe3f288af90438f7fc58e3b60b5b695510caa6479ac9966e5d66:200",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/mohamed-elmasry17/my-cloudstream-repo",
-        "fileSize": 53000,
+        "fileSize": 21000,
         "status": 3,
         "language": "ar",
         "authors": [
@@ -55,7 +55,7 @@
         "version": 1,
         "internalName": "Akwam",
         "description": "موقع اكوام",
-        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/ExampleProvider.cs3",
+        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/AkwamProvider.cs3",
         "name": "Akwam"
     }
 ]
