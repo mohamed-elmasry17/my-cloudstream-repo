@@ -57,25 +57,5 @@
         "description": "موقع اكوام",
         "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/AkwamProvider.cs3",
         "name": "Akwam"
-    },
-    {
-        "iconUrl": "https://cdn.brandfetch.io/idxjUVvAHo/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/mohamed-elmasry17/my-cloudstream-repo",
-        "fileSize": 526,
-        "status": 4,
-        "language": "ar",
-        "authors": [
-            "MoElMaSrY"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "عرب سيد تست - ArabSeed",
-        "description": "تجريبي",
-        "url": "https://github.com/mohamed-elmasry17/my-cloudstream-repo/raw/main/Arabseed1.cs3",
-        "name": "Arabseedtest"
     }
 ]
